@@ -107,5 +107,4 @@ local Input = MainTab:CreateInput({
         game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = (Text)
    end,
 })
-
 local TPTab = Window:CreateTab("🎲 Misc", nil) -- Title, Image
