@@ -108,3 +108,5 @@ local Input = MainTab:CreateInput({
    end,
 })
 local TPTab = Window:CreateTab("🎲 Misc", nil) -- Title, Image
+   end,
+})
